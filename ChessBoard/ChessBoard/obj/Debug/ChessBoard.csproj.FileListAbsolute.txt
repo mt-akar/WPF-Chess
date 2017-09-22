@@ -1,0 +1,15 @@
+c:\users\viral\documents\visual studio 2017\Projects\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe.config
+c:\users\viral\documents\visual studio 2017\Projects\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe
+c:\users\viral\documents\visual studio 2017\Projects\ChessBoard\ChessBoard\bin\Debug\ChessBoard.pdb
+c:\users\viral\documents\visual studio 2017\Projects\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csprojResolveAssemblyReference.cache
+c:\users\viral\documents\visual studio 2017\Projects\ChessBoard\ChessBoard\obj\Debug\MainWindow.g.cs
+c:\users\viral\documents\visual studio 2017\Projects\ChessBoard\ChessBoard\obj\Debug\App.g.cs
+c:\users\viral\documents\visual studio 2017\Projects\ChessBoard\ChessBoard\obj\Debug\ChessBoard_MarkupCompile.cache
+c:\users\viral\documents\visual studio 2017\Projects\ChessBoard\ChessBoard\obj\Debug\ChessBoard_MarkupCompile.lref
+c:\users\viral\documents\visual studio 2017\Projects\ChessBoard\ChessBoard\obj\Debug\MainWindow.baml
+c:\users\viral\documents\visual studio 2017\Projects\ChessBoard\ChessBoard\obj\Debug\ChessBoard.g.resources
+c:\users\viral\documents\visual studio 2017\Projects\ChessBoard\ChessBoard\obj\Debug\ChessBoard.Properties.Resources.resources
+c:\users\viral\documents\visual studio 2017\Projects\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.GenerateResource.Cache
+c:\users\viral\documents\visual studio 2017\Projects\ChessBoard\ChessBoard\obj\Debug\ChessBoard.exe
+c:\users\viral\documents\visual studio 2017\Projects\ChessBoard\ChessBoard\obj\Debug\ChessBoard.pdb
+C:\Users\ViraL\documents\visual studio 2017\Projects\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.CoreCompileInputs.cache
